@@ -1,9 +1,9 @@
 
 
-## Directions in Venice
+## "Directions in Venice"
 ### a nanogenmo novel by @arnicas/Lynn Cherny
-### repo https://github.com/arnicas/venice_directions_nanogenmo
-
+### Source repo: https://github.com/arnicas/venice_directions_nanogenmo
+*This is the raw version, not edited for content/punctuation except inserting this header.*
 
 
 

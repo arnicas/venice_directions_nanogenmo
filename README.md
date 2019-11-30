@@ -16,3 +16,7 @@ The GPT2 model was tuned using Max Woolf's [colab](https://colab.research.google
 To spruce the output up, I added little random excerpts from a tourist map of Venice, on which I wanted to draw crazy arrows and circles, but I ran out of time for visual extras.  Also, I mixed in some random Flickr photos of Venice, to really set the mood better.   I went with Flickr over Unsplash because Unsplash was way too perfect-looking.  These Flickr pics are pretty damn fine in any case. (I'll fix those links with attribution info as alt text or extra links after the deadline.)
 
 The code is in a crappy Jupyter notebook and I probably won't clean it up much, sorry!
+
+## Result
+
+You can read the raw version [here](results_raw.md).

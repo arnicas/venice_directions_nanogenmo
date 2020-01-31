@@ -2,7 +2,7 @@
 
 V2, improved version of my nanogenmo 2019 entry, "Directions in Venice." 
 
-This project uses data from OpenStreetMap for places in Venice, Tracery grammar to generate static directions and prompts for the GPT-2 model, a GPT-2 model trained on Venice historical open source books and purchased guidebooks. The model uses recent context plus atmosphere priming for the output.  There are random images pulled from flickr pics of Venice (hopefully :) and segments of a tourist map of Venice, on which scribbled annotations have been randomly added.
+This project uses data from OpenStreetMap for places in Venice, Tracery grammar to generate static directions and prompts for the GPT-2 model, a GPT-2 model trained on open source Venice history books and purchased guidebooks. The model uses recent context plus atmosphere priming for the output.  There are random images pulled from flickr pics of Venice (hopefully :) and segments of a tourist map of Venice, on which scribbled annotations have been randomly added.
 
 The improvements since Nanogenmo came from a longer training time on the model, for slightly better output grammar and sense; plus some improved output cleaning and prompt code.  Also added attribution links to the flickr images and scary hand-drawn annotations on the map excerpts.  There are still some grammar and punctuation fixes needed, but far fewer than the first attempt.
 
@@ -24,7 +24,7 @@ The "mood" of the generated text is supposed to change over the course of the st
 
 ### The Images
 
-To spruce the output up, I added little random excerpts from a tourist map of Venice, on which I added crazy annotations.  Also, I mixed in some random Flickr photos of Venice, to really set the mood better.  It may be that not all the images are actually Venice, depending on how the random selection with keywords went. Btw, I went with Flickr over Unsplash because Unsplash was way too perfect-looking.  These Flickr pics are pretty damn fine in any case. 
+To spruce the output up, I added little random excerpts from a tourist map of Venice, on which I added crazy annotations.  Also, I mixed in some random Flickr photos of Venice, to really set the mood better.  The images are now links, back to their source. It may be that not all the images are actually Venice, depending on how the random selection with keywords went. Btw, I went with Flickr over Unsplash because Unsplash was way too perfect-looking.  These Flickr pics are pretty damn fine in any case. 
 
 The slightly improved code is in the V2 Jupyter notebook.
 
